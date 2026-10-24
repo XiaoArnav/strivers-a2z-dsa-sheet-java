@@ -87,6 +87,15 @@ Check out [`docs/POST_TEMPLATES.md`](./docs/POST_TEMPLATES.md) for ready-made te
 
 ---
 
+## 🗺️ Master Roadmap
+
+- **Phase 1 (Current):** **[Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)** (Steps 1–18)  
+  *Goal:* Master foundational data structures, algorithmic intuition, and time/space complexity analysis in Java.
+- **Phase 2 (Up Next):** **[Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)** (180 Pattern-Wise Problems)  
+  *Goal:* Target top-tier tech interview patterns (FAANG/MAANG, Tier-1 product companies) and time-constrained problem solving.
+
+---
+
 ## 🤝 Acknowledgements
 
 - **Raj Vikramaditya (Striver)** for designing the comprehensive [takeUforward A2Z Sheet](https://takeuforward.org).
