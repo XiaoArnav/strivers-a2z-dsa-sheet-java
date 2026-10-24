@@ -29,7 +29,7 @@ Here are 3 major takeaways from this module:
 
 📂 Proof of Work & Solutions:
 I have documented all my solutions, along with approaches (Brute, Better, Optimal) and Time/Space complexity breakdowns in my GitHub repository:
-🔗 [Insert your GitHub Repo Link here]
+🔗 https://github.com/XiaoArnav/strivers-a2z-dsa-sheet-java
 
 Next up: [Next Topic, e.g., Disjoint Set Union & Minimum Spanning Trees] 🎯
 
@@ -54,7 +54,7 @@ What this journey taught me beyond just syntax:
 
 💻 Code Repository & Documentation:
 Every solution—with problem links, approaches (Brute, Better, Optimal), and complexity notes—is documented here:
-🔗 [Insert your GitHub Repo Link here]
+🔗 https://github.com/XiaoArnav/strivers-a2z-dsa-sheet-java
 
 Special thanks to Raj Vikramaditya (Striver) and takeUforward for providing this gold standard of DSA preparation for the tech community.
 
@@ -81,7 +81,7 @@ Tweet 3:
 
 Tweet 4:
 Documented all implementations with time & space complexity breakdowns in my GitHub:
-[Link to GitHub Repo]
+https://github.com/XiaoArnav/strivers-a2z-dsa-sheet-java
 
 Thanks @striver_79 & @takeUforward_ for the incredible resource! 🚀
 ```
