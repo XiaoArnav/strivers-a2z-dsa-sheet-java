@@ -5,6 +5,10 @@
 [![Progress](https://img.shields.io/badge/Progress-In%20Progress-brightgreen.svg?style=for-the-badge)](#-progress-tracker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
+<p align="center">
+  <img src="./assets/readme-hero.png" alt="Striver's A2Z DSA Journey - The Ascent" width="100%">
+</p>
+
 A clean, structured repository tracking my complete journey through **[Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)** by **Raj Vikramaditya (Striver)**.
 
 Every solution is implemented in **Java**, focusing on clean code, thorough documentation, and analyzing **Time & Space Complexities** across Brute Force, Better, and Optimal approaches.
